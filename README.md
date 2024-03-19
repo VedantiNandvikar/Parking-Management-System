@@ -1,4 +1,4 @@
-# Parking-Management-System
+# Parking-Slot-Management-System
 Project Name: Parking Slot Management System
 
 Programming Language: Java
